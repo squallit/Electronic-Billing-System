@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\squal\onedrive\documents\visual studio 2015\projects\finalprojectcs124\finalprojectcs124\invoice.h(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\squal\onedrive\documents\visual studio 2015\projects\finalprojectcs124\finalprojectcs124\main.cpp(430): warning C4129: 'O': unrecognized character escape sequence
+c:\users\squal\onedrive\documents\visual studio 2015\projects\finalprojectcs124\finalprojectcs124\main.cpp(439): warning C4018: '<': signed/unsigned mismatch
+  FinalProjectCS124.vcxproj -> C:\Users\squal\onedrive\documents\visual studio 2015\Projects\FinalProjectCS124\Debug\FinalProjectCS124.exe
+  FinalProjectCS124.vcxproj -> C:\Users\squal\onedrive\documents\visual studio 2015\Projects\FinalProjectCS124\Debug\FinalProjectCS124.pdb (Full PDB)
