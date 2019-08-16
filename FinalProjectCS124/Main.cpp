@@ -1,7 +1,5 @@
 /*
-Name: Son Luu
-Class: CS-124-02 Fall 2016
-Assignment: Final Project - Luu Electronics Billing System
+Basic Electronics Billing System
 */
 
 //this is main
